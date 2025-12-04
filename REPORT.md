@@ -1,5 +1,7 @@
 # Relatório Final - Sistema de Reconhecimento de Espécies de Plantas
 
+**Repositório:** https://github.com/fabiobr05/Classifier_flowers.git
+
 ## 1. Introdução
 
 Este projeto implementa um sistema de reconhecimento automático de espécies de plantas utilizando técnicas de visão computacional e deep learning. O objetivo é classificar imagens de flores em cinco categorias: margarida (daisy), dente-de-leão (dandelion), rosa (rose), girassol (sunflower) e tulipa (tulip).
