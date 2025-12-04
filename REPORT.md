@@ -69,22 +69,21 @@ Este projeto implementa um sistema de reconhecimento automático de espécies de
 - Validação acompanha o treinamento indicando boa generalização
 - Early stopping ativado para evitar sobreajuste
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### 4.3 Resultados por Espécie
 
-#### Dandelion (Dente-de-leão) - 100%
-![Dandelion](images/dandelion_100.png)
-
-#### Daisy (Margarida) - 98%
-![Daisy](images/daisy_098.png)
-
-#### Tulip (Tulipa) - 91%
-![Tulip](images/tupipe_091.png)
-
-#### Sunflower (Girassol) - 90%
-![Sunflower](images/sunflower_090.png)
-
-#### Rose (Rosa) - 60%
-![Rose](images/rose_060.png)
+| Espécie | Acurácia | Imagem |
+|---------|----------|--------|
+| Dandelion | 100% | <img src="images/dandelion_100.png" width="150"> |
+| Daisy | 98% | <img src="images/daisy_098.png" width="150"> |
+| Tulip | 91% | <img src="images/tupipe_091.png" width="150"> |
+| Sunflower | 90% | <img src="images/sunflower_090.png" width="150"> |
+| Rose | 60% | <img src="images/rose_060.png" width="150"> |
 
 ### 4.4 Performance Final
 - **Acurácia no conjunto de teste:** 86.1%

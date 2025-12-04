@@ -5,3 +5,4 @@ scikit-learn>=0.24.0
 joblib>=1.0.0
 kagglehub
 tensorflow>=2.8.0
+markdown-pdf==1.10
